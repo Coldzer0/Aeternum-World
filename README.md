@@ -4,7 +4,7 @@ Analysis for **New World Aeternum** `v1.400.6031.40375`
 
 ## Docs
 
-- [NW Packet Analysis](docs\Network\packet_system.md)
+- [NW Packet Analysis](docs/Network/packet_system.md)
 
 
 ## Tools
