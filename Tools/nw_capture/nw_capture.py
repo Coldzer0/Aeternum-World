@@ -39,12 +39,13 @@ CAPTURES_ROOT    = NETWORKTOOLS_ROOT / "captures"
 
 
 class HttpsTapRunner(FridaRunner):
-    def __init__(self, target_path: str, timeout_s: float):
+    def __init__(self, target_path: str, timeout_s: float, session_name: str):
         super().__init__(
             target_path=target_path,
             scripts=["nw_https_tap.js"],
             timeout_s=timeout_s,
             log_stem="nw_https_tap",
+            session=session_name
         )
         self._tokenservice_seen = False
 
@@ -114,7 +115,7 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    runner = HttpsTapRunner(args.target, args.timeout)
+    runner = HttpsTapRunner(args.target, args.timeout, args.session)
     rc = runner.run()
 
     if runner.log_path is None or not runner.log_path.is_file():

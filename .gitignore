@@ -16,3 +16,5 @@
 *.o
 *.ocx
 *.pyc
+/Tools/nw_capture/captures
+/Tools/nw_capture/logs
