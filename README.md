@@ -6,6 +6,11 @@ Analysis for **New World Aeternum** `v1.400.6031.40375`
 
 - [NW Packet Analysis](docs/Network/packet_system.md)
 
+## Helper tools
+
+ - [nw packet capture](Tools/nw_capture/README.md)
+ - [Class mapper for Type Indexs](Catalog/README.md)
+
 
 ## Tools
 

@@ -1,0 +1,13 @@
+cffi==2.0.0
+colorama==0.4.6
+cryptography==48.0.0
+frida==17.9.10
+frida-tools==14.8.2
+lz4==4.4.5
+pefile==2024.8.26
+prompt_toolkit==3.0.52
+pycparser==3.0
+Pygments==2.20.0
+toml==0.10.2
+wcwidth==0.7.0
+websockets==13.1
