@@ -180,11 +180,22 @@ Note:
 
 ## 🏴 PvP Systems
 
+🚩 Capture the Flag (CTF) Updates
+
+- [ ] Queue for CTF
+- [ ] Pick up flag
+- [ ] Drop flag
+- [ ] Return own flag
+- [ ] Score flag capture
+- [ ] CTF match end / reward
+
 ### Open World PvP
 
 - [ ] Toggle PvP flag on / off
 - [ ] Kill flagged player
 - [ ] Receive PvP XP / reward
+
+
 
 ### Duels
 
@@ -318,3 +329,253 @@ Note:
 - [ ] Event vendor purchase
 - [ ] Seasonal event objective tick
 - [ ] Event boss spawn / participate / kill
+
+---
+
+## 🪦 Catacombs (New Game Mode)
+
+- [ ] Enter Catacombs (Activity Finder queue)
+- [ ] Match found / accept
+- [ ] Zone in to Catacombs instance
+- [ ] Kill standard enemy (power-up drop)
+- [ ] Pick up mode-specific power-up
+- [ ] Boss encounter start / aggro
+- [ ] Boss kill (difficulty scaling trigger)
+- [ ] Post-boss difficulty increase applied
+- [ ] Open extraction portal (after boss kill)
+- [ ] Defend portal (wave survival)
+- [ ] Successfully extract (exit portal)
+- [ ] Fail / wipe (no extraction)
+- [ ] Earn Sterlings (general currency drop)
+- [ ] Earn Crowns (boss currency drop)
+- [ ] Visit Catacombs Delver vendor (Tularest Abbey)
+- [ ] Spend Sterlings / Crowns on gear reward
+- [ ] Collect cursed resource (loot mechanic)
+- [ ] Cleanse cursed loot (post-extraction)
+
+---
+
+## 💎 Perk Charms (New Gear Modding System)
+
+- [ ] Inspect gear charm sockets
+- [ ] Install charm (Gem socket)
+- [ ] Install charm (Defensive socket)
+- [ ] Install charm (Offensive socket)
+- [ ] Install charm (Skill socket)
+- [ ] Remove / swap charm
+- [ ] Craft charm (endgame materials)
+- [ ] Pick up pre-refined charm (world drop)
+
+---
+
+## 🧩 Set Bonuses
+
+- [ ] Equip 2-piece set (bonus trigger)
+- [ ] Equip full set (max bonus trigger)
+- [ ] Set bonus buff applied
+- [ ] Set bonus lost (piece unequipped)
+- [ ] View set bonus details in UI
+
+---
+
+## 📈 Season 10 Gear & Progression Changes
+
+- [ ] Earn Umbral Shards
+- [ ] Spend Umbral Shards to upgrade GS 700+ item
+- [ ] Hit Umbral Shard wallet cap (4,000)
+- [ ] Weekly Umbral Shard limit reached
+- [ ] Upgrade artifact gear score (700 → 800)
+- [ ] Save attribute loadout with Gear Set
+- [ ] Switch Gear Set (attributes + perks swap)
+
+---
+
+## 🐴 Mounts
+
+### Core Mount Actions
+- [ ] Unlock mount (level 25 quest)
+- [ ] Summon mount
+- [ ] Dismiss mount
+- [ ] Mount enters combat (auto-dismount)
+- [ ] Sprint on mount (stamina drain)
+- [ ] Mount stamina depleted (fallback to walk)
+- [ ] Mount stamina regenerates
+
+### Mount Progression (Riding Trade Skill)
+- [ ] Gain Riding Trade Skill XP (from use / quests)
+- [ ] Riding Trade Skill level up
+- [ ] Reach Riding Skill milestone (buff unlock)
+- [ ] Complete Mount Quest (XP reward)
+- [ ] Craft Mount Vittles (camp, 3x/day limit)
+- [ ] Feed mount Mount Vittles (XP, daily cap hit)
+
+### Mount Equipment
+- [ ] Equip mount saddle
+- [ ] Equip mount shoes (speed / stamina boost)
+- [ ] Equip mount straps (minor stat boost)
+- [ ] Equip mount armor / cosmetic skin
+- [ ] Dye mount armor
+- [ ] Equip mount charm (milestone reward)
+
+### Mount Customization
+- [ ] Apply mount skin (Store / Season Pass)
+- [ ] Change mount skin via wardrobe
+- [ ] Equip mount attachment cosmetic
+
+---
+
+## 💓 Heartrune System
+
+- [ ] Unlock Heartrune slot (quest: Secrets of the Heartgem)
+- [ ] Equip Heartrune
+- [ ] Activate Heartrune ability (in combat)
+- [ ] Heartrune cooldown starts / ends
+- [ ] Craft Minor Heartrune
+- [ ] Upgrade Heartrune (Minor → Major → Greater/Legendary)
+- [ ] Select Heartrune variant (Brutal / Cunning / Stalwart)
+- [ ] Heartrune perk proc (equipped perk triggers)
+- [ ] Swap Heartrune between loadouts
+
+---
+
+## 🧪 Gypsum System
+
+- [ ] Earn Gypsum (type-specific: Obsidian, Ruby, Sapphire, Amethyst, etc.)
+- [ ] Hit daily Gypsum cap (per type)
+- [ ] Open Gypsum Kiln
+- [ ] Craft Gypsum Orb (from raw Gypsum)
+- [ ] Craft Gypsum Cast (from Orbs, gear-slot specific)
+- [ ] Open Gypsum Cast (gear drop + GS bump)
+- [ ] Earn Gypsum from: OPR, Arena, Breach, Trade Skill Aptitude, Named Elite kills
+
+---
+
+## 🏆 Trade Skill Aptitude
+
+- [ ] Hit Trade Skill level 200 (unlock Aptitude)
+- [ ] Earn Trade Skill Aptitude XP (post-200 overflow)
+- [ ] Aptitude level up
+- [ ] Claim Aptitude cache reward
+- [ ] Open Aptitude cache (randomized loot)
+
+---
+
+## 🔮 Mutated Expeditions
+
+- [ ] Check active weekly mutations (map icon)
+- [ ] Queue for Mutated Expedition (Activity Finder)
+- [ ] Enter Mutated Expedition (M1 / M2 / M3)
+- [ ] Mutator elemental damage type applied to self
+- [ ] Apply elemental resistance consumable / gem
+- [ ] Complete expedition (Silver / Gold / Platinum rating)
+- [ ] Earn Codex progress (per expedition)
+- [ ] Unlock next mutation difficulty (Codex threshold)
+- [ ] Weekly mutation reset (Tuesday 5AM)
+- [ ] Earn Umbral Shards from mutation clear
+- [ ] Earn mutation-exclusive loot drop
+
+
+---
+
+## 🧖 Barbershop
+
+- [ ] Open Barbershop UI (at Stylemancer NPC)
+- [ ] Change hairstyle
+- [ ] Change hair color
+- [ ] Change facial hair
+- [ ] Change tattoo
+- [ ] Change other facial features
+- [ ] Spend Barbershop Token (confirm changes)
+- [ ] Earn Barbershop Token (gameplay / Season Pass)
+- [ ] Purchase Barbershop Token (Store)
+- [ ] Cancel / preview without confirming
+
+---
+
+## 🏷️ Solo Trials
+
+- [ ] Open Activity Finder (Solo Trials tab)
+- [ ] Queue for Solo Trial
+- [ ] Enter Solo Trial instance
+- [ ] Boss encounter start
+- [ ] Boss kill
+- [ ] Solo Trial complete / reward
+- [ ] Daily Solo Trial lockout triggered
+- [ ] Fail / wipe (retry or exit)
+
+---
+
+## 🗺️ Activity Finder (General)
+
+- [ ] Open Activity Finder UI
+- [ ] Browse available activities
+- [ ] Queue for activity (expedition, mutation, raid, OPR, arena, CTF, solo trial, catacombs)
+- [ ] Match found notification
+- [ ] Accept match
+- [ ] Decline match (re-queue)
+- [ ] Leave queue
+- [ ] Activity role selection (DPS / Healer / Tank)
+- [ ] Group pulled into instance from Activity Finder
+
+---
+
+## 🌊 Swimming
+
+- [ ] Enter water (wade)
+- [ ] Swim (surface)
+- [ ] Dive (submerged)
+- [ ] Surface from dive
+- [ ] Swim stamina drain
+- [ ] Stamina depleted while swimming (speed reduction)
+- [ ] Exit water
+
+---
+
+## 🏛️ Reputation Systems (Territory / Faction)
+
+- [ ] Earn Territory Standing XP in a settlement
+- [ ] Territory Standing level up
+- [ ] Select Territory Standing perk (on level up)
+- [ ] Earn Faction reputation points
+- [ ] Faction reputation rank up (rank title change)
+- [ ] Unlock Faction vendor item (via reputation rank)
+- [ ] Faction vendor stock refresh
+
+---
+## 🪙 Mystic Doubloons (Cursed Mists / Cutlass Keys)
+
+### Earning Doubloons
+- [ ] Enter Cutlass Keys / The Cursed Mists PvP zone
+- [ ] Kill named NPC enemy (Doubloon drop)
+- [ ] Loot supply chest (green) in Cursed Mists
+- [ ] Loot Elite chest (red) in Cursed Mists
+- [ ] Open locked chest with Glittering Gold Key (500 Doubloons)
+- [ ] Accept Cutlass Keys quest (35+ Doubloons reward)
+- [ ] Complete Cutlass Keys quest (Doubloon reward)
+- [ ] Kill player in PvP zone (Cursed Doubloon drop from corpse)
+- [ ] Earn Cursed Doubloons (accumulating while inside PvP zone)
+- [ ] Exit PvP zone alive (Cursed Doubloons → Mystic Doubloons conversion)
+- [ ] Die inside PvP zone (Cursed Doubloons lost / dropped)
+
+### Well of Fortune Vendor (Cutlass Keys Settlement)
+- [ ] Open Well of Fortune vendor UI
+- [ ] Purchase gear (up to 710 GS) with Doubloons
+- [ ] Purchase Goldcursed Coconut (PvP zone drop only — required for max GS gear)
+- [ ] Use Goldcursed Coconut to upgrade gear to max GS
+- [ ] Purchase Glittering Gold Key (weekly limit — unlocks locked chest in PvP zone)
+- [ ] Purchase Goldcursed Epic Crate (daily limit — chance at 725 GS items)
+- [ ] Open Goldcursed Epic Crate (loot roll)
+- [ ] Purchase Gypsum Orbs from vendor (daily limit)
+- [ ] Purchase Gold Touched Honing Stone (daily limit)
+- [ ] Purchase Dark Matter (daily limit)
+- [ ] Purchase trade skill consumable / meal (daily limit)
+- [ ] Purchase crafting mod / material
+- [ ] Purchase cosmetic item
+- [ ] Hit daily purchase limit on a vendor item
+- [ ] Hit weekly purchase limit on a vendor item (Glittering Gold Key)
+- [ ] Vendor stock resets (daily / weekly)
+
+---
+
+
+### Thanks to **Mattsin** for the list update.
