@@ -34,9 +34,9 @@
     NW._dtls_ledger_armed = true;
 
     const VAS = {
-        SSL_read:    '0x1478F17E0',
-        SSL_write:   '0x1478F1E20',
-        nss_keylog:  '0x1478F23A0',
+        SSL_read:    '0x1478F2E20',
+        SSL_write:   '0x1478F3460',
+        nss_keylog:  '0x1478F39E0',
     };
 
     const REC_MAGIC       = 0x4C44574E;
